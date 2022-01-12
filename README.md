@@ -4,7 +4,7 @@
 
 ## 42서울이란
 
-[![42Seoul](스크린샷 이미지)](https://youtu.be/2gE07GStEIk)
+[![42Seoul](.img/42Seoul.png)](https://youtu.be/2gE07GStEIk)
 
 
 
